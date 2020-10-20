@@ -1,3 +1,3 @@
-# Deep-Learning-Annotation
+# AUEB MLCA - Deep Learning Text Classification
 
-lgtm soon to be added
+
