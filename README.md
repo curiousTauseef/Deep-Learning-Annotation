@@ -4,7 +4,7 @@ We are three ambitious students of the [Master of Science in Business Analytics 
 
 The main idea is to train a Neural Network with pre-classified data and create an algorithmic model so that, by entering new data, we can achieve the greatest predictability in new and future publications.
 
-The first step, before getting to the analysis, is downloading the **parser_eda_extract.ipynb** file. The original raw data is included in the same folder. You should also unzip the documents folder in order for the parser to perform correctly. Ywo csv files will be extracted, that you can import to the respective notebooks - one for binary and one for multiclass classification purposes. Notebooks are fully commented, however you can always look at the report for further explanation. Othwerwise you can download the two CSVs and run the 2 classification notebooks respectively.
+The first step, before getting to the analysis, is downloading the **parser_eda_extract.ipynb** file. The original raw data is included in the same folder. You should also unzip the documents folder in order for the parser to perform correctly. Two csv files will be extracted, that you can import to the respective notebooks - one for binary and one for multiclass classification purposes. Notebooks are fully commented, however you can always look at the report for further explanation. Othwerwise you can download the two CSVs and run the 2 classification notebooks respectively.
 
 Tip: Run the jupyter notebooks in Google Colab to enhance performance
 
