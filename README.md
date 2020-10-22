@@ -10,7 +10,7 @@ Tip: Run the jupyter notebooks in Google Colab to enhance performance
 
 Enjoy! 
 
-[Lianos Alexandros](https://www.linkedin.com/in/alexandros-lianos-679850150/)
-[Marinos Efstratios](https://www.linkedin.com/in/efstratiosmarinos/)
-[Lydia Papanikou](https://www.linkedin.com/in/lydia-papanikou-59500067/)
+- [Lianos Alexandros](https://www.linkedin.com/in/alexandros-lianos-679850150/)
+- [Marinos Efstratios](https://www.linkedin.com/in/efstratiosmarinos/)
+- [Lydia Papanikou](https://www.linkedin.com/in/lydia-papanikou-59500067/)
 
