@@ -18,9 +18,16 @@ On the same note you should also download the heldout csv with the same options 
 
 Tip: Run the jupyter notebooks in Google Colab to enhance performance
 
+### Keep in Mind
+Due to the demanding time restrictions we had to make 2 compromises:
+
+1. The metrics (as well as the [Binary Saved Models](https://github.com/Nightherald/Deep-Learning-Annotation/tree/main/Binary%20Saved%20Models) files) of the binary classification deep learning models differ from those presented in the [mlca-annotation-report.pdf](https://github.com/Nightherald/Deep-Learning-Annotation/blob/main/mlca-annotation-report.pdf). We had to re-calculate overall predictions (initially we calculated a prediction per model) on a heldout dataset at a later time, so we had to rerun the notebooks. The [group1_research_theme_binary.csv](https://github.com/Nightherald/Deep-Learning-Annotation/blob/main/group1_research_theme_binary.csv) contains 92 predictions based on our original best trained model (a CNN model with self-trained embeddings) at the time.
+
+2. We planned to transfer the insights gained from our Binary Classification deep learning models (concerning the hyper-parameter variations) and proceed with Multiclass Classification. Alas, that was not possible and since we were not satisfied with the final notebook, the Multiclass Classification deep learning models are more limited in scope.
+
+
 Enjoy! 
 
 - [Lianos Alexandros](https://www.linkedin.com/in/alexandros-lianos-679850150/)
 - [Marinos Efstratios](https://www.linkedin.com/in/efstratiosmarinos/)
 - [Lydia Papanikou](https://www.linkedin.com/in/lydia-papanikou-59500067/)
-
